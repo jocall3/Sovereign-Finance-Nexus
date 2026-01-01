@@ -1,0 +1,7 @@
+{
+  "name": "Sovereign Finance Nexus",
+  "description": "A high-performance fintech orchestration platform featuring global data mesh integration, AI-driven financial advisement, and a constitutional reserve architecture.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
